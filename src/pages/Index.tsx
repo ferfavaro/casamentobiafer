@@ -88,7 +88,7 @@ const Index = () => {
         >
           <div className="w-16 h-px bg-gold opacity-50" />
           <p className="font-display text-lg md:text-2xl tracking-[0.3em] text-gold-light font-light">
-            10.04.2027
+            27.11.2027
           </p>
           <div className="w-16 h-px bg-gold opacity-50" />
         </motion.div>
